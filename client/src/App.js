@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import "./App.css";
 
-import MainNav from "./components/MainNav"
+import MainNav from "./components/Nav"
 import SavedPage from "./pages/saved"
 
 function App() {
