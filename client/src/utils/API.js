@@ -1,10 +1,7 @@
 import axios from "axios";
 
 export default {
-    getAllSaved: () => {
-        return axios({
-            method: "GET",
-            url: "api/books/saved"
-        })
+    getBooks: function (query) {
+        return axios.get("/api/search", { params: { query } });
     }
-}
+};
