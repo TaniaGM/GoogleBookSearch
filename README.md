@@ -1,9 +1,5 @@
 <img width="1535" alt="Screen Shot 2020-05-25 at 4 53 20 PM" src="https://user-images.githubusercontent.com/56511238/82845021-64240d00-9ea8-11ea-82c5-d7492bb2916b.png">
 
-# Description
-Tania's Book Club is a MERN applicaion built for searching Google Books
-
-
 # Create React Express App
 
 ## Description
