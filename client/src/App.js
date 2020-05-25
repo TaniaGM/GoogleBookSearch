@@ -46,7 +46,7 @@ class App extends Component {
                                                 name="bookSearch"
                                                 value={this.state.bookSearch}
                                                 onChange={this.newQuery}
-                                                placeholder="Search for a new adventure!"
+                                                placeholder="Search for a non crappy book!"
                                             />
                                         </Col>
                                         <Col size="xs-3 sm-2">
