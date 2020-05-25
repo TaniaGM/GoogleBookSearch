@@ -1,5 +1,9 @@
 # Create React Express App
 
+## Description
+
+Tania's Book Club is a mern application allowing you to search google books
+
 ## About This Boilerplate
 
 This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
