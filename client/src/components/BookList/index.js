@@ -4,7 +4,6 @@ import { Container, Row, Col } from "../Grid";
 import Button from "../Button";
 import "./style.css";
 
-// Exporting both BookList and BookListItem from this file.
 
 export function BookList({ children }) {
     return <ul className="list-group">{children}</ul>;
