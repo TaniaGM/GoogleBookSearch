@@ -4,9 +4,9 @@ import "./style.css";
 
 function Nav() {
     return (
-        <nav className="navbar navbar-dark bg-black">
+        <nav className="navbar navbar-blue bg-blue">
             <a className="navbar-brand" href="/">
-                MBK
+                TBC
       </a>
         </nav>
     );
